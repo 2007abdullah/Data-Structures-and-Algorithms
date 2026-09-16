@@ -1,0 +1,13 @@
+# C++ executable files
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+output/
+build/
+
+# VS Code settings
+.vscode/
